@@ -1,0 +1,13 @@
+body{
+    background-image: url("BackgroundImage.jpg");
+}
+h1{
+    color: rgb(176, 68, 238);
+}
+h3{
+    color: rgb(176, 68, 238);
+}
+#login{
+    background-color: rgb(176, 68, 238);
+    color: white;
+}
